@@ -2,7 +2,7 @@
 打开cmd的方法：
 （1）打开运行的快捷键：win+r，搜索cmd
 （2）打开任意一个文件夹，把上方的导航栏里面输入cmd.exe ，空格，然后回车即可。
-![](https://app.yinxiang.com/shard/s39/res/482c4efb-671b-4250-9184-5fcb60994435.png)
+![](cmd命令行.png)
 
 C:\d：
 D:\
