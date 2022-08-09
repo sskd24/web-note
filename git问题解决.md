@@ -1,4 +1,4 @@
-
+# 一.分支命令
 ## 1. 查看本地和远程分支
 **$ git branch -a**
 
@@ -54,3 +54,8 @@ SSKD@SSKD74_labtop MINGW64 /e/前端/SSKD_GitHUb/github_笔记网站 (main)
 $ git branch -vv
 * main b6d7497 [origin/main: ahead 1, behind 5] 修改md图片
 ```
+# 二.ssh相关问题
+全面概述Gitee和GitHub生成/添加SSH公钥：https://www.cnblogs.com/Can-daydayup/p/13063280.html
+
+# 三.sourcetree相关
+sourcetree教程：https://zhuanlan.zhihu.com/p/533052453?utm_campaign=&utm_medium=social&utm_oi=1118947110606753792&utm_psn=1540345613912231936&utm_source=com.microsoft.emmx#tocbar-468rms
