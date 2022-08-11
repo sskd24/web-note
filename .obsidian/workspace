@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "1c00a5e55325b480",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c17149bd83a62ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "css面试.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27801a4362065ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3c58a0c91b4a24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a4b80ad935b1ed4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebf85c60bbb2772e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e998eab87e4caf2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5b9fe5fff7e63fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "27af6ae6efd46a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb4c56643cb2ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "css面试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f1ac3dfda0b2dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "css面试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "645a0d529cd7b8e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f0cc18a437f8183",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "css面试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c17149bd83a62ae",
+  "lastOpenFiles": [
+    "README.md",
+    "命令行/git问题解决.md",
+    "命令行/cmd命令行.md",
+    "命令行/img/cmd命令行1.png",
+    "代码片段/Iterator代码片段.md"
+  ]
+}
